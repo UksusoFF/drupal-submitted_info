@@ -1,0 +1,4 @@
+name = Submitted Info
+description = Allow customize the "Submitted by" text with theme hook.
+dependencies[] = field
+core = 7.x
